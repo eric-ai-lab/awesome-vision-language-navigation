@@ -1,6 +1,6 @@
 # awesome-embodied-ai
 
-# Embodied AI has becoming an important topic. This repo is a reading list for related papers. Any suggestions are welcome!
+Embodied AI has becoming an important topic. This repo is a reading list for related papers. Any suggestions are welcome!
 
 ## Instruction Following (e.g. VLN):
 
