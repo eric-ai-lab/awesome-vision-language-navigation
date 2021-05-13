@@ -4,7 +4,7 @@ Embodied AI has becoming an important topic. This repo is a reading list for rel
 
 ## Instruction Following (e.g. VLN):
 
-- R2R (Room To Room): Matterport3D: Learning from {RGB-D} Data in Indoor Environments [paper](https://arxiv.org/abs/1709.06158) [project](https://bringmeaspoon.org/)
+- R2R (Room To Room): Matterport3D: Learning from {RGB-D} Data in Indoor Environments [paper](https://arxiv.org/abs/1711.07280) [project](https://bringmeaspoon.org/)
 
 - Room-Across-Room (RxR): Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding [paper](https://arxiv.org/abs/2010.07954) [project](https://ai.google.com/research/rxr/)
 
