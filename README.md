@@ -10,6 +10,8 @@ Embodied AI has becoming an important topic. This repo is a reading list for rel
 
 - Habitat: Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments [paper](https://arxiv.org/abs/2004.02857) [project](https://jacobkrantz.github.io/vlnce/)
 
+- Habitat Workshop: 2021 Habitat Challenge launches to advance embodied AI research [project](https://aihabitat.org/challenge/2021)
+
 - TouchDown: Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments
  [paper](https://arxiv.org/abs/1811.12354) [project](https://github.com/lil-lab/touchdown)
 
