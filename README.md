@@ -51,8 +51,6 @@ Embodied AI has becoming an important topic. This repo is a reading list for rel
 
 - RLBench: The Robot Learning Benchmark & Learning Environment [paper](https://arxiv.org/abs/1909.12271) [project](https://sites.google.com/view/rlbench)
 
-- PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics [paper](https://arxiv.org/pdf/2104.03311.pdf) [github](https://github.com/hzaskywalker/PlasticineLab)
-
 ## Other embodied tasks and datasets
 
 - Gibson: Gibson Env: Real-World Perception for Embodied Agents [paper](https://arxiv.org/abs/1808.10654) [project](http://gibsonenv.stanford.edu/)
