@@ -53,6 +53,8 @@ Embodied AI has becoming an important topic. This repo is a reading list for rel
 
 - CausalWorld: A Robotic Manipulation Benchmark for Causal Structure and Transfer Learning. [project](https://sites.google.com/view/causal-world/home)
 
+- Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning. [project](https://meta-world.github.io/)
+
 ## Other embodied tasks and datasets
 
 - Gibson: Gibson Env: Real-World Perception for Embodied Agents [paper](https://arxiv.org/abs/1808.10654) [project](http://gibsonenv.stanford.edu/)
