@@ -1,6 +1,15 @@
 # awesome-embodied-ai
 
-Embodied AI has becoming an important topic. This repo is a reading list for related papers. Any suggestions are welcome!
+Vision-and-Language Navigation (VLN) has becoming an important topic. Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo!
+Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey of Tasks, Methods, and Future Directions.
+
+## Datasets
+
+
+## Methods
+
+
+
 
 ## Instruction Following (e.g. VLN):
 
