@@ -137,6 +137,47 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 #### Graph Representation 
 
+- Language and Visual Entity Relationship Graph for Agent Navigation [paper](https://arxiv.org/abs/2010.09304)
+
+- Evolving Graphical Planner: Contextual Global Planning for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2007.05655)
+
+- Chasing Ghosts: Instruction Following as Bayesian State Tracking [paper](https://arxiv.org/abs/1907.02022)
+
+- Topological Planning with Transformers for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2012.05292)
+
+#### Memory-augmented Model 
+
+- A Recurrent Vision-and-Language BERT for Navigation [paper](https://arxiv.org/abs/2011.13922) 
+
+- Vision-Dialog Navigation by Exploring Cross-modal Memory [paper](https://arxiv.org/abs/2003.06745)
+
+- Scene-Intuitive Agent for Remote Embodied Visual Grounding [paper](https://arxiv.org/abs/2103.12944)
+
+- Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning [paper](https://aclanthology.org/D19-1063/)
+
+- History Aware Multimodal Transformer for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2110.13309) 
+
+#### Auxiliary Tasks 
+
+- Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks [paper](https://arxiv.org/abs/1911.07883)
+- Self-Monitoring Navigation Agent via Auxiliary Progress Estimation [paper](https://arxiv.org/abs/1901.03035)
+- Transferable Representation Learning in Vision-and-Language Navigation [paper](https://arxiv.org/abs/1908.03409) 
+
+### Action Strategy Learning 
+
+#### Reinforcement Learning 
+
+- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [paper](https://arxiv.org/abs/1811.10092) 
+- Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
+- Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation [paper](https://aclanthology.org/P19-1181/) 
+- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping [paper](https://arxiv.org/abs/1907.05446) 
+- Multimodal Attention Networks for Low-Level Vision-and-Language Navigation [paper](https://arxiv.org/abs/1911.12377) 
+- Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation [paper](https://arxiv.org/abs/1803.07729) 
+- Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning [paper](https://arxiv.org/abs/2011.10972) 
+
+#### Exploration during Navigation
+
+
 
 
 
