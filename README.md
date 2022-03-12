@@ -7,6 +7,7 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 - Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4)
 
+### Initial Instruction
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
 
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigationn [paper](https://doi.org/10.18653/v1/P19-1181)
@@ -45,14 +46,92 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 - ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks [paper](https://arxiv.org/abs/1912.01734)
 
+### Guidance
+
 - Just Ask:An Interactive Learning Framework for Vision and Language Navigation [paper](https://arxiv.org/abs/1912.00915)
 
 - Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention [paper](https://arxiv.org/abs/1812.04155)
 
+- Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning [paper](https://aclanthology.org/D19-1063/)
 
+- Executing Instructions in Situated Collaborative Interactions [paper](https://aclanthology.org/D19-1218/)
+
+### Dialog 
+
+- The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation [paper](https://arxiv.org/abs/2010.12639)
+
+- Vision-and-Dialog Navigation [paper](https://arxiv.org/abs/1907.04957)
+
+- Talk the Walk: Navigating New York City through Grounded Dialogue [paper](https://arxiv.org/abs/1807.03367)
+
+- Collaborative Dialogue in Minecraft [paper](https://aclanthology.org/P19-1537/)
+
+- TEACh: Task-driven Embodied Agents that Chat [paper](https://arxiv.org/abs/2110.00534)
+
+## Evaluation 
+
+- Vision-and-Dialog Navigation [paper](https://arxiv.org/abs/1907.04957)
+
+- On Evaluation of Embodied Navigation Agents [paper](https://arxiv.org/abs/1807.06757)
+
+- TOUCHDOWN: Natural Language Navigation and Spatial Reasoning in Visual Street Environments [paper](https://ieeexplore.ieee.org/document/8954308) 
+
+- Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation [paper](https://aclanthology.org/P19-1181/)
+
+- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping [paper](https://arxiv.org/abs/1907.05446)
 
 
 ## Methods
+
+### Representation Learning 
+#### Pretraining 
+
+- Deep Residual Learning for Image Recognition [paper](https://arxiv.org/abs/1512.03385) 
+
+- An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [paper](https://arxiv.org/abs/2010.11929) 
+
+- DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames [paper](https://arxiv.org/abs/1911.00357)
+
+- Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments [paper](https://arxiv.org/abs/2004.02857)
+
+- BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [paper](https://arxiv.org/abs/1810.04805) 
+
+- Language Models are Unsupervised Multitask Learners [paper](http://www.persagen.com/files/misc/radford2019language.pdf)
+
+- Robust Navigation with Language Pretraining and Stochastic Sampling [paper](https://arxiv.org/abs/1909.02244)
+
+- Episodic Transformer for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2105.06453) 
+
+- ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks [paper](https://arxiv.org/abs/1908.02265) 
+
+- The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation [paper](https://arxiv.org/abs/2104.04167) 
+
+- Improving Vision-and-Language Navigation with Image-Text Pairs from the Web [paper](https://arxiv.org/abs/2004.14973) 
+
+- Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training [paper](https://arxiv.org/abs/2002.10638) 
+
+- A Recurrent Vision-and-Language BERT for Navigation [paper](https://arxiv.org/abs/2011.13922) 
+
+- SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2110.14143) 
+
+- Airbert: In-domain Pretraining for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2108.09105) 
+
+#### Semantic Understanding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Instruction Following (e.g. VLN):
 
