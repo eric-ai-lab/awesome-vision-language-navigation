@@ -177,6 +177,15 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 #### Exploration during Navigation
 
+- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
+- Active Visual Information Gathering for Vision-Language Navigation [paper](https://arxiv.org/abs/2007.08037) 
+- Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation [paper](https://arxiv.org/abs/1903.02547) 
+- Pathdreamer: A World Model for Indoor Navigation [paper](https://arxiv.org/abs/2105.08756) 
+
+#### Navigation Planning 
+
+
+
 
 
 
