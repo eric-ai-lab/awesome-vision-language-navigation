@@ -84,6 +84,7 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 ## Methods
 
 ### Representation Learning 
+
 #### Pretraining 
 
 - Deep Residual Learning for Image Recognition [paper](https://arxiv.org/abs/1512.03385) 
@@ -118,8 +119,23 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 #### Semantic Understanding 
 
+- Shifting the Baseline: Single Modality Performance on Visual Navigation & QA [paper](https://aclanthology.org/N19-1197/)
 
+- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation [paper](https://aclanthology.org/P19-1655/) 
 
+- Diagnosing the Environment Bias in Vision-and-Language Navigation [paper](https://www.ijcai.org/proceedings/2020/124)
+
+- Diagnosing Vision-and-Language Navigation: What Really Matters [paper](https://arxiv.org/abs/2103.16561)
+
+- Object-and-Action Aware Model for Visual Language Navigation [paper](https://arxiv.org/abs/2007.14626)
+
+- Room-and-Object Aware Knowledge Reasoning for Remote Embodied Referring Expression [paper](https://ieeexplore.ieee.org/abstract/document/9577507)
+
+- Embodied Vision-and-Language Navigation with Dynamic Convolutional Filters [paper](https://arxiv.org/abs/1907.02985)
+
+- Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning [paper](https://arxiv.org/abs/2011.10972)
+
+#### Graph Representation 
 
 
 
