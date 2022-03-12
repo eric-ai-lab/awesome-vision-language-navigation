@@ -34,6 +34,23 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 - Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction [paper](https://arxiv.org/abs/1809.00786)
 
 - Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning [paper](https://arxiv.org/abs/1806.00047)
+ 
+- Building Generalizable Agents with a Realistic and Rich 3D Environment [paper](https://openreview.net/forum?id=rkaT3zWCZ)
+
+- REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments [paper](https://arxiv.org/abs/1904.10151)
+
+- SOON: Scenario Oriented Object Navigation with Graph-based Exploration [paper](https://arxiv.org/abs/2103.17138)
+
+- AI2-THOR: An Interactive 3D Environment for Visual AI [paper](https://arxiv.org/abs/1712.05474)
+
+- ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks [paper](https://arxiv.org/abs/1912.01734)
+
+- Just Ask:An Interactive Learning Framework for Vision and Language Navigation [paper](https://arxiv.org/abs/1912.00915)
+
+- Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention [paper](https://arxiv.org/abs/1812.04155)
+
+
+
 
 ## Methods
 
