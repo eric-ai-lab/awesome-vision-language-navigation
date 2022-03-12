@@ -5,15 +5,39 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 ## Datasets
 
+- Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4)
+
+- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
+
+- Stay on the Path: Instruction Fidelity in Vision-and-Language Navigationn [paper](https://doi.org/10.18653/v1/P19-1181)
+
+- Cross-Lingual Vision-Language Navigation [paper](http://arxiv.org/abs/1910.11301)
+
+- Room-Across-Room: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding [paper](https://arxiv.org/abs/2010.07954)
+
+- Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
+
+- Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments [paper](https://arxiv.org/abs/2004.02857) 
+
+- Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation [paper](https://arxiv.org/abs/2104.10674)
+
+- Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments [paper](https://doi.org/10.1109/CVPR.2019.01282)
+
+- The Streetlearn Environment and Dataset [paper](https://arxiv.org/abs/1903.01292)
+
+- Retouchdown: Releasing Touchdown on StreetLearn as a Public Resource for Language Grounding Tasks in Street View [paper](https://doi.org/10.18653/v1/2020.splu-1.7)
+
+- Learning To Follow Directions in Street View [paper](https://arxiv.org/abs/1903.00401)
+
+- Talk2Nav: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory [paper](https://arxiv.org/abs/1910.02029)
+
+- Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction [paper](https://arxiv.org/abs/1809.00786)
+
+- Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning [paper](https://arxiv.org/abs/1806.00047)
 
 ## Methods
 
-
-
-
 ## Instruction Following (e.g. VLN):
-
-- test
 
 - R2R (Room To Room): Matterport3D: Learning from {RGB-D} Data in Indoor Environments [paper](https://arxiv.org/abs/1711.07280) [project](https://bringmeaspoon.org/)
 
