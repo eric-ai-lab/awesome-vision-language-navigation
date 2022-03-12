@@ -160,7 +160,9 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 #### Auxiliary Tasks 
 
 - Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks [paper](https://arxiv.org/abs/1911.07883)
+
 - Self-Monitoring Navigation Agent via Auxiliary Progress Estimation [paper](https://arxiv.org/abs/1901.03035)
+
 - Transferable Representation Learning in Vision-and-Language Navigation [paper](https://arxiv.org/abs/1908.03409) 
 
 ### Action Strategy Learning 
@@ -168,21 +170,82 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 #### Reinforcement Learning 
 
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [paper](https://arxiv.org/abs/1811.10092) 
+
 - Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation [paper](https://aclanthology.org/P19-1181/) 
+
 - General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping [paper](https://arxiv.org/abs/1907.05446) 
+
 - Multimodal Attention Networks for Low-Level Vision-and-Language Navigation [paper](https://arxiv.org/abs/1911.12377) 
+
 - Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation [paper](https://arxiv.org/abs/1803.07729) 
+
 - Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning [paper](https://arxiv.org/abs/2011.10972) 
 
 #### Exploration during Navigation
 
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
+
 - Active Visual Information Gathering for Vision-Language Navigation [paper](https://arxiv.org/abs/2007.08037) 
+
 - Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation [paper](https://arxiv.org/abs/1903.02547) 
+
 - Pathdreamer: A World Model for Indoor Navigation [paper](https://arxiv.org/abs/2105.08756) 
 
 #### Navigation Planning 
+
+- Waypoint Models for Instruction-guided Navigation in Continuous Environments [paper](https://arxiv.org/abs/2110.02207) 
+
+- Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation [paper](https://arxiv.org/abs/1803.07729)
+
+- Pathdreamer: A World Model for Indoor Navigation [paper](https://arxiv.org/abs/2105.08756)
+
+- Neighbor-view Enhanced Model for Vision and Language Navigation [paper](https://arxiv.org/abs/2107.07201) 
+
+- Chasing Ghosts: Instruction Following as Bayesian State Tracking [paper](https://arxiv.org/abs/1907.02022)
+
+#### Asking for Help 
+
+- Just Ask:An Interactive Learning Framework for Vision and Language Navigation [paper](https://arxiv.org/abs/1912.00915) 
+
+- Self-Motivated Communication Agent for Real-World Vision-Dialog Navigation [paper](https://ieeexplore.ieee.org/document/9711423)
+
+- A Framework for Learning to Request Rich and Contextually Useful Information from Humans [paper](https://arxiv.org/abs/2110.08258) 
+
+- TEACh: Task-driven Embodied Agents that Chat [paper](https://arxiv.org/abs/2110.00534)
+
+- RMM: A Recursive Mental Model for Dialog Navigation [paper](https://arxiv.org/abs/2005.00728)
+
+- Vision-and-Dialog Navigation [paper](https://arxiv.org/abs/1907.04957) 
+
+### Data-centric Learning 
+
+#### Data Augmentation 
+
+- Speaker-Follower Models for Vision-and-Language Navigation [paper](https://arxiv.org/abs/1806.02724) 
+
+- On the Evaluation of Vision-and-Language Navigation Instructions [paper](https://arxiv.org/abs/2101.10504) 
+
+- Transferable Representation Learning in Vision-and-Language Navigation [paper](https://arxiv.org/abs/1908.03409)
+
+- Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling [paper](https://arxiv.org/abs/1911.07308) 
+
+- Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout [paper](https://aclanthology.org/N19-1268/) 
+
+- Vision-Language Navigation with Random Environmental Mixup [paper](https://arxiv.org/abs/2106.07876) 
+
+- Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling [paper](https://arxiv.org/abs/1911.07308) 
+
+
+
+#### Curriculum Learning
+
+
+
+
+
+
+
 
 
 
