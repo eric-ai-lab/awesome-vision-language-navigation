@@ -236,30 +236,46 @@ Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey 
 
 - Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling [paper](https://arxiv.org/abs/1911.07308) 
 
-
-
 #### Curriculum Learning
 
+- Curriculum Learning [paper](https://ronan.collobert.com/pub/matos/2009_curriculum_icml.pdf) 
+
+- BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps [paper](https://arxiv.org/abs/2005.04625) 
+
+- Curriculum Learning for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2111.07228) 
 
 
+#### Multitask Learning 
 
+- Environment-agnostic Multitask Learning for Natural Language Grounded Navigation [paper](https://arxiv.org/abs/2003.00443)
 
+- Vision-and-Dialog Navigation [paper](https://arxiv.org/abs/1907.04957) 
 
+- Embodied Multimodal Multitask Learning [paper](https://arxiv.org/abs/1902.01385) 
 
+- Embodied Question Answering in Photorealistic Environments with Point Cloud Perception [paper](https://arxiv.org/abs/1904.03461) 
 
+#### Instruction Interpretation
 
+- Multi-View Learning for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2003.00857) 
 
+- Sub-Instruction Aware Vision-and-Language Navigation [paper](https://aclanthology.org/2020.emnlp-main.271/) 
 
+### Prior Exploration  
 
+- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation [paper](https://aclanthology.org/P19-1655/) 
 
+- Counterfactual Vision-and-Language Navigation: Unravelling the Unseen [paper](https://proceedings.neurips.cc/paper/2020/hash/39016cfe079db1bfb359ca72fcba3fd8-Abstract.html) 
 
+- Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout [paper](https://aclanthology.org/N19-1268/) 
 
+- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [paper](https://arxiv.org/abs/1811.10092) 
 
+- Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling [paper](https://arxiv.org/abs/1911.07308) 
 
+- Topological Planning with Transformers for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2012.05292) 
 
-
-
-
+- Rethinking the Spatial Route Prior in Vision-and-Language Navigation [paper](https://arxiv.org/abs/2110.05728) 
 
 
 ## Instruction Following (e.g. VLN):
