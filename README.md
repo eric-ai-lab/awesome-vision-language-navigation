@@ -1,6 +1,7 @@
 # awesome-embodied-ai
 
-Vision-and-Language Navigation (VLN) has becoming an important topic. Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo!
+Vision-and-Language Navigation (VLN) has becoming an important topic. This repo keeps tracking the recent advancements in VLN.
+Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo!
 Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey of Tasks, Methods, and Future Directions.
 
 ## Datasets
