@@ -280,3 +280,13 @@ A curated list of VLN papers. Please check out our VLN survey paper for the cato
 - Topological Planning with Transformers for Vision-and-Language Navigation [paper](https://arxiv.org/abs/2012.05292) 
 
 - Rethinking the Spatial Route Prior in Vision-and-Language Navigation [paper](https://arxiv.org/abs/2110.05728) 
+
+### Bibtex:
+```
+@misc{jing2022vln,
+      title={Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions}, 
+      author={Jing Gu, Eliana Stefani, Qi Wu, Jesse Thomason, Xin Eric Wang},
+      year={2022},
+      booktitle = "ACL 2022"
+}
+```
