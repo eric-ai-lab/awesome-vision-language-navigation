@@ -1,12 +1,15 @@
-# awesome-embodied-ai
+# Awesome Vision-and-Language Navigation
 
-Vision-and-Language Navigation (VLN) has becoming an important topic. This repo keeps tracking the recent advancements in VLN.
-Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo!
-Please also check our VLN survey paper: Vision-and-Language Navigation:A Survey of Tasks, Methods, and Future Directions.
+<!-- Vision-and-Language Navigation (VLN) has becoming an important topic. This repo keeps tracking the recent advancements in VLN. -->
+<!-- Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo! -->
 
-## Datasets
+A curated list of VLN papers. Please check out our VLN survey paper for the catogerization approach and the detailed discussions of tasks, methods, and future directions: [Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions]().
 
-- Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4)
+>A long-term goal of AI research is to build intelligent agents that can communicate with humans in natural language, perceive the environment, and perform real-world tasks. Vision-and-Language Navigation (VLN) is a fundamental and interdisciplinary research topic towards this goal, and receives increasing attention from the natural language processing, computer vision, and machine learning communities. In this paper, we review contemporary studies in the emerging field of VLN, covering tasks, evaluation metrics, methods, etc. Through structured analysis of current progress and challenges, we also highlight the limitations of current VLN and opportunities for future work.
+
+## Datasets and Benchmarks
+
+<!-- - Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4) -->
 
 ### Initial Instruction
 - Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
