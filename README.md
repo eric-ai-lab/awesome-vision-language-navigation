@@ -283,10 +283,10 @@ A curated list of VLN papers. Please check out our VLN survey paper for the cato
 
 ### Bibtex:
 ```
-@misc{jing2022vln,
+@InProceedings{jing2022vln,
       title={Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions}, 
       author={Jing Gu, Eliana Stefani, Qi Wu, Jesse Thomason, Xin Eric Wang},
-      year={2022},
-      booktitle = "ACL 2022"
+      booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+      year = {2022}
 }
 ```
