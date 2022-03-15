@@ -281,11 +281,11 @@ A curated list of VLN papers. Please check out our VLN survey paper for the cato
 
 - Rethinking the Spatial Route Prior in Vision-and-Language Navigation [paper](https://arxiv.org/abs/2110.05728) 
 
-### Bibtex:
+### If you find this repo useful for your research, please cite
 ```
 @InProceedings{jing2022vln,
       title={Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions}, 
-      author={Jing Gu, Eliana Stefani, Qi Wu, Jesse Thomason, Xin Eric Wang},
+      author={Jing Gu and Eliana Stefani and Qi Wu and Jesse Thomason and Xin Eric Wang},
       booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
       year = {2022}
 }
