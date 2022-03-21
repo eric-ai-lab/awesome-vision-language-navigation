@@ -286,7 +286,7 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
 @InProceedings{jing2022vln,
       title={Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions}, 
       author={Jing Gu and Eliana Stefani and Qi Wu and Jesse Thomason and Xin Eric Wang},
-      booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+      booktitle = {Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)},
       year = {2022}
 }
 ```
