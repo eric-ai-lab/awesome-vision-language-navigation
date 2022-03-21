@@ -12,7 +12,8 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
 <!-- - Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4) -->
 
 ### Initial Instruction
-- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments [paper](https://arxiv.org/abs/1711.07280) 
+- Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments  
+[paper](https://arxiv.org/abs/1711.07280) 
 
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigationn [paper](https://doi.org/10.18653/v1/P19-1181)
 
