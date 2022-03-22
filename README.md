@@ -30,9 +30,10 @@ NeurIPS 2021  [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f238
 - [VLNCE] Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments   
 [ECCV 2020] [paper](https://arxiv.org/abs/2004.02857)
 
-- Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation [paper](https://arxiv.org/abs/2104.10674)
+- Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation  
+arXiv 2021 [paper](https://arxiv.org/abs/2104.10674)
 
-- [Touchdown]: Natural Language Navigation and Spatial Reasoning in Visual Street Environments 
+- [Touchdown]: Natural Language Navigation and Spatial Reasoning in Visual Street Environments  
 CVPR 2019 [paper](https://doi.org/10.1109/CVPR.2019.01282)
 
 - The Streetlearn Environment and Dataset  
@@ -107,7 +108,7 @@ CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
 - On Evaluation of Embodied Navigation Agents 
 arXiv 2018 [paper](https://arxiv.org/abs/1807.06757)
 
-- Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments 
+- Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments  
 CVPR 2019 [paper](https://doi.org/10.1109/CVPR.2019.01282)
 
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
