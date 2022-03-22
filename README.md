@@ -48,7 +48,7 @@ arXiv 2019 [paper](https://arxiv.org/abs/1903.00401)
 - [Talk2Nav]: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory  
 IJCV 2021 [paper](https://arxiv.org/abs/1910.02029)
 
-- [LANI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction
+- [LANI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction  
 EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
 
 - Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning  
@@ -69,7 +69,7 @@ CVPR 2021 [paper](https://arxiv.org/abs/2103.17138)
 - [IQA]: Iqa: Visual Question Answering in Interactive Environments  
 CVPR 2018 [paper](https://arxiv.org/abs/1712.03316)
 
-- [CHAI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction
+- [CHAI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction  
 EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
 
 - [ALFRED]: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks  
@@ -100,7 +100,7 @@ CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
 - [Talk the Walk]: Navigating New York City through Grounded Dialogue  
 arXiv 2018 [paper](https://arxiv.org/abs/1807.03367)
 
-- Collaborative Dialogue in Minecraft 
+- Collaborative Dialogue in Minecraft  
 ACL 2019 [paper](https://aclanthology.org/P19-1537/)
 
 - [TEACh]: Task-driven Embodied Agents that Chat  
