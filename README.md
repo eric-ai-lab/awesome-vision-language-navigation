@@ -56,18 +56,18 @@ EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
 - Building Generalizable Agents with a Realistic and Rich 3D Environment  
 arXiv 2018 [paper](https://openreview.net/forum?id=rkaT3zWCZ)
 
-- REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments  
+- [REVERIE]: Remote Embodied Visual Referring Expression in Real Indoor Environments  
 CVPR 2020 [paper](https://arxiv.org/abs/1904.10151)
 
-- SOON: Scenario Oriented Object Navigation with Graph-based Exploration  
+- [SOON]: Scenario Oriented Object Navigation with Graph-based Exploration  
 CVPR 2021 [paper](https://arxiv.org/abs/2103.17138)
 
-- ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks  
+- [ALFRED]: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks  
 CVPR 2020 [paper](https://arxiv.org/abs/1912.01734)
 
 ### Guidance
 
-- Just Ask:An Interactive Learning Framework for Vision and Language Navigation  
+- [Just Ask]:An Interactive Learning Framework for Vision and Language Navigation  
 AAAI 2020 [paper](https://arxiv.org/abs/1912.00915)
 
 - Vision-based Navigation with Language-based Assistance via Imitation Learning with Indirect Intervention  
@@ -84,16 +84,16 @@ ACL 2019 [paper](https://aclanthology.org/D19-1218/)
 - The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation  
 CoRL 2020 [paper](https://arxiv.org/abs/2010.12639)
 
-- CVDN: Vision-and-Dialog Navigation  
+- [CVDN]: Vision-and-Dialog Navigation  
 CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
 
-- Talk the Walk: Navigating New York City through Grounded Dialogue  
+- [Talk the Walk]: Navigating New York City through Grounded Dialogue  
 arXiv 2018 [paper](https://arxiv.org/abs/1807.03367)
 
 - Collaborative Dialogue in Minecraft 
 ACL 2019 [paper](https://aclanthology.org/P19-1537/)
 
-- TEACh: Task-driven Embodied Agents that Chat  
+- [TEACh]: Task-driven Embodied Agents that Chat  
 arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
 
 
