@@ -105,7 +105,7 @@ There we introduce papers that includes new evaluation metrics.
 - Vision-and-Dialog Navigation  
 CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
 
-- On Evaluation of Embodied Navigation Agents 
+- On Evaluation of Embodied Navigation Agents  
 arXiv 2018 [paper](https://arxiv.org/abs/1807.06757)
 
 - Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments  
@@ -114,7 +114,7 @@ CVPR 2019 [paper](https://doi.org/10.1109/CVPR.2019.01282)
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://doi.org/10.18653/v1/P19-1181)
 
-- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping 
+- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping  
 arXiv 2019 [paper](https://arxiv.org/abs/1907.05446)
 
 
