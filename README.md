@@ -54,14 +54,23 @@ EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
 - Following High-level Navigation Instructions on a Simulated Quadcopter with Imitation Learning  
  RSS 2018 [paper](https://arxiv.org/abs/1806.00047)
 
-- Building Generalizable Agents with a Realistic and Rich 3D Environment  
+- [RoomNav]: Building Generalizable Agents with a Realistic and Rich 3D Environment  
 arXiv 2018 [paper](https://openreview.net/forum?id=rkaT3zWCZ)
+
+- [EmbodiedQA]: Embodied Question Answering  
+CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Das_Embodied_Question_Answering_CVPR_2018_paper.html)
 
 - [REVERIE]: Remote Embodied Visual Referring Expression in Real Indoor Environments  
 CVPR 2020 [paper](https://arxiv.org/abs/1904.10151)
 
 - [SOON]: Scenario Oriented Object Navigation with Graph-based Exploration  
 CVPR 2021 [paper](https://arxiv.org/abs/2103.17138)
+
+- [IQA]: Iqa: Visual Question Answering in Interactive Environments  
+CVPR 2018 [paper](https://arxiv.org/abs/1712.03316)
+
+- [CHAI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction
+EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
 
 - [ALFRED]: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks  
 CVPR 2020 [paper](https://arxiv.org/abs/1912.01734)
@@ -97,6 +106,8 @@ ACL 2019 [paper](https://aclanthology.org/P19-1537/)
 - [TEACh]: Task-driven Embodied Agents that Chat  
 arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
 
+-[DialFRED]: Dialogue-enabled agents for embodied instruction following  
+arXiv 2022 [paper](https://arxiv.org/abs/2202.13330)
 
 ## Evaluation 
 
@@ -197,7 +208,7 @@ CVPR 2021 [paper](https://arxiv.org/abs/2012.05292)
 - A Recurrent Vision-and-Language BERT for Navigation  
 CVPR 2021 [paper](https://arxiv.org/abs/2011.13922) 
 
-- Vision-Dialog Navigation by Exploring Cross-modal Memory 
+- Vision-Dialog Navigation by Exploring Cross-modal Memory  
 CVPR 2020 [paper](https://arxiv.org/abs/2003.06745)
 
 - Scene-Intuitive Agent for Remote Embodied Visual Grounding  
@@ -233,7 +244,7 @@ NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f2388
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://aclanthology.org/P19-1181/) 
 
-- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping 
+- General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping  
 arXiv 2019 [paper](https://arxiv.org/abs/1907.05446) 
 
 - Perceive, transform, and act: Multi-modal attention networks for vision-and-language navigation  
