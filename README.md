@@ -211,10 +211,10 @@ NeurIPS 2021 [paper](https://arxiv.org/abs/2110.13309)
 
 #### Auxiliary Tasks 
 
-- Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks 
+- Vision-Language Navigation with Self-Supervised Auxiliary Reasoning Tasks  
 CVPR 2020 [paper](https://arxiv.org/abs/1911.07883)
 
-- Self-Monitoring Navigation Agent via Auxiliary Progress Estimation 
+- Self-Monitoring Navigation Agent via Auxiliary Progress Estimation  
 ICLR 2019 [paper](https://arxiv.org/abs/1901.03035)
 
 - Transferable Representation Learning in Vision-and-Language Navigation  
@@ -227,8 +227,8 @@ ICCV 2019 [paper](https://arxiv.org/abs/1908.03409)
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation  
 CVPR 2019 [paper](https://arxiv.org/abs/1811.10092) 
 
-- [Landmark-RxR]: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision  
-NeurIPS 2021  [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
+- Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision  
+NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
 
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation 
 ACL 2019 [paper](https://aclanthology.org/P19-1181/) 
@@ -236,8 +236,11 @@ ACL 2019 [paper](https://aclanthology.org/P19-1181/)
 - General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping 
 arXiv 2019 [paper](https://arxiv.org/abs/1907.05446) 
 
-- Multimodal Attention Networks for Low-Level Vision-and-Language Navigation  
-arXiv 2019 [paper](https://arxiv.org/abs/1911.12377) 
+- Perceive, transform, and act: Multi-modal attention networks for vision-and-language navigation  
+arXiv 2019 [paper](https://arxiv.org/abs/1911.12377)
+
+- From language to goals: Inverse reinforcement learning for vision-based instruction following.  
+arXiv 2019 [paper](https://arxiv.org/abs/1902.07742) 
 
 - Look Before You Leap: Bridging Model-Free and Model-Based Reinforcement Learning for Planned-Ahead Vision-and-Language Navigation  
 ECCV 2018 [paper](https://arxiv.org/abs/1803.07729) 
@@ -345,7 +348,7 @@ EMNLP 2020 [paper](https://aclanthology.org/2020.emnlp-main.271/)
 
 ### Prior Exploration  
 
-- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation 
+- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation  
 ACL 2019 [paper](https://aclanthology.org/P19-1655/) 
 
 - Counterfactual Vision-and-Language Navigation: Unravelling the Unseen  
