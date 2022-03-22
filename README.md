@@ -157,7 +157,7 @@ ICCV 2021 [paper](https://arxiv.org/abs/2108.09105)
 - Shifting the Baseline: Single Modality Performance on Visual Navigation & QA  
 ACL 2019 [paper](https://aclanthology.org/N19-1197/)
 
-- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation 
+- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation  
 ACL 2019 [paper](https://aclanthology.org/P19-1655/) 
 
 - Diagnosing the Environment Bias in Vision-and-Language Navigation  
