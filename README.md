@@ -106,7 +106,7 @@ ACL 2019 [paper](https://aclanthology.org/P19-1537/)
 - [TEACh]: Task-driven Embodied Agents that Chat  
 arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
 
--[DialFRED]: Dialogue-enabled agents for embodied instruction following  
+- [DialFRED]: Dialogue-enabled agents for embodied instruction following  
 arXiv 2022 [paper](https://arxiv.org/abs/2202.13330)
 
 ## Evaluation 
