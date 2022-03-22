@@ -333,7 +333,8 @@ NeurIPS 2021 [paper](https://arxiv.org/abs/2111.07228)
 - Environment-agnostic Multitask Learning for Natural Language Grounded Navigation  
 ECCV 2020 [paper](https://arxiv.org/abs/2003.00443)
 
-- Embodied Multimodal Multitask Learning [paper](https://arxiv.org/abs/1902.01385) 
+- Embodied Multimodal Multitask Learning  
+IJCAI 2020 [paper](https://arxiv.org/abs/1902.01385) 
 
 #### Instruction Interpretation
 
