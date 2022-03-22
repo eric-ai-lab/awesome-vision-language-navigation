@@ -15,7 +15,7 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
 - [R2R]: Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments  
   CVPR 2018 [paper](https://arxiv.org/abs/1711.07280) 
 
-- [Room-for-Room] Stay on the Path: Instruction Fidelity in Vision-and-Language Navigationn  
+- [Room-for-Room] Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://doi.org/10.18653/v1/P19-1181)
 
 - [Room-Across-Room]: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding 
@@ -39,8 +39,8 @@ CVPR 2019 [paper](https://doi.org/10.1109/CVPR.2019.01282)
 - The Streetlearn Environment and Dataset  
 arXiv 2019 [paper](https://arxiv.org/abs/1903.01292)
 
-- [Retouchdown]: Releasing Touchdown on StreetLearn as a Public Resource for Language Grounding Tasks in Street View 
-[Spatial Language Understanding Workshop] [paper](https://doi.org/10.18653/v1/2020.splu-1.7)
+- [Retouchdown]: Releasing Touchdown on StreetLearn as a Public Resource for Language Grounding Tasks in Street View  
+Spatial Language Understanding Workshop 2020 [paper](https://doi.org/10.18653/v1/2020.splu-1.7)
 
 - Learning To Follow Directions in Street View  
 arXiv 2019 [paper](https://arxiv.org/abs/1903.00401)
@@ -230,7 +230,7 @@ CVPR 2019 [paper](https://arxiv.org/abs/1811.10092)
 - Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision  
 NeurIPS 2021 [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
 
-- Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation 
+- Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://aclanthology.org/P19-1181/) 
 
 - General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping 
