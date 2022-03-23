@@ -7,6 +7,41 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
 
 >A long-term goal of AI research is to build intelligent agents that can communicate with humans in natural language, perceive the environment, and perform real-world tasks. Vision-and-Language Navigation (VLN) is a fundamental and interdisciplinary research topic towards this goal, and receives increasing attention from the natural language processing, computer vision, and machine learning communities. In this paper, we review contemporary studies in the emerging field of VLN, covering tasks, evaluation metrics, methods, etc. Through structured analysis of current progress and challenges, we also highlight the limitations of current VLN and opportunities for future work.
 
+
+- [Awesome Vision-and-Language Navigation](#awesome-vision-and-language-navigation)
+  * [Datasets and Benchmarks](#datasets-and-benchmarks)
+    + [Initial Instruction](#initial-instruction)
+    + [Guidance](#guidance)
+    + [Dialog](#dialog)
+  * [Evaluation](#evaluation)
+  * [Methods](#methods)
+    + [Representation Learning](#representation-learning)
+      - [Pretraining](#pretraining)
+      - [Semantic Understanding](#semantic-understanding)
+      - [Graph Representation](#graph-representation)
+      - [Memory-augmented Model](#memory-augmented-model)
+      - [Auxiliary Tasks](#auxiliary-tasks)
+    + [Action Strategy Learning](#action-strategy-learning)
+      - [Reinforcement Learning](#reinforcement-learning)
+      - [Exploration during Navigation](#exploration-during-navigation)
+      - [Navigation Planning](#navigation-planning)
+      - [Asking for Help](#asking-for-help)
+    + [Data-centric Learning](#data-centric-learning)
+      - [Data Augmentation](#data-augmentation)
+      - [Curriculum Learning](#curriculum-learning)
+      - [Multitask Learning](#multitask-learning)
+      - [Instruction Interpretation](#instruction-interpretation)
+    + [Prior Exploration](#prior-exploration)
+  * [Related Areas](#related-areas)
+    + [Using 2D MAPS environments](#using-2d-maps-environments)
+    + [Using synthetic environments](#using-synthetic-environments)
+    + [Visual Navigation](#visual-navigation)
+    + [If you find this repo useful for your research, please cite](#if-you-find-this-repo-useful-for-your-research--please-cite)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
 ## Datasets and Benchmarks
 
 <!-- - Visual Navigation for Mobile Robots: A Survey [paper](https://link.springer.com/article/10.1007/s10846-008-9235-4) -->
