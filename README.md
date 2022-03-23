@@ -18,17 +18,17 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
 - [Room-for-Room] Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://doi.org/10.18653/v1/P19-1181)
 
+- [XL-R2R] Cross-Lingual Vision-Language Navigation  
+arXiv 2019 [paper](http://arxiv.org/abs/1910.11301)  
+
 - [Room-Across-Room]: Multilingual Vision-and-Language Navigation with Dense Spatiotemporal Grounding 
 EMNLP 2020 [paper](https://arxiv.org/abs/2010.07954)
-
-- [XL-R2R] Cross-Lingual Vision-Language Navigation  
-EMNLP 2020 [paper](http://arxiv.org/abs/1910.11301)  
 
 - [Landmark-RxR]: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision  
 NeurIPS 2021  [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
 
 - [VLNCE] Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments   
-[ECCV 2020] [paper](https://arxiv.org/abs/2004.02857)
+ECCV 2020 [paper](https://arxiv.org/abs/2004.02857)
 
 - Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation  
 arXiv 2021 [paper](https://arxiv.org/abs/2104.10674)
@@ -60,14 +60,14 @@ arXiv 2018 [paper](https://openreview.net/forum?id=rkaT3zWCZ)
 - [EmbodiedQA]: Embodied Question Answering  
 CVPR 2018 [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Das_Embodied_Question_Answering_CVPR_2018_paper.html)
 
+- [IQA]: Iqa: Visual Question Answering in Interactive Environments  
+CVPR 2018 [paper](https://arxiv.org/abs/1712.03316)
+
 - [REVERIE]: Remote Embodied Visual Referring Expression in Real Indoor Environments  
 CVPR 2020 [paper](https://arxiv.org/abs/1904.10151)
 
 - [SOON]: Scenario Oriented Object Navigation with Graph-based Exploration  
 CVPR 2021 [paper](https://arxiv.org/abs/2103.17138)
-
-- [IQA]: Iqa: Visual Question Answering in Interactive Environments  
-CVPR 2018 [paper](https://arxiv.org/abs/1712.03316)
 
 - [CHAI]: Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction  
 EMNLP 2018 [paper](https://arxiv.org/abs/1809.00786)
@@ -91,20 +91,20 @@ ACL 2019 [paper](https://aclanthology.org/D19-1218/)
 
 ### Dialog 
 
-- The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation  
-CoRL 2020 [paper](https://arxiv.org/abs/2010.12639)
+- [Talk the Walk]: Navigating New York City through Grounded Dialogue  
+arXiv 2018 [paper](https://arxiv.org/abs/1807.03367)
 
 - [CVDN]: Vision-and-Dialog Navigation  
 CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
 
-- [Talk the Walk]: Navigating New York City through Grounded Dialogue  
-arXiv 2018 [paper](https://arxiv.org/abs/1807.03367)
-
 - Collaborative Dialogue in Minecraft  
 ACL 2019 [paper](https://aclanthology.org/P19-1537/)
 
+- The RobotSlang Benchmark: Dialog-guided Robot Localization and Navigation  
+CoRL 2020 [paper](https://arxiv.org/abs/2010.12639)
+
 - [TEACh]: Task-driven Embodied Agents that Chat  
-arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
+AAAI 2022 [paper](https://arxiv.org/abs/2110.00534)
 
 - [DialFRED]: Dialogue-enabled agents for embodied instruction following  
 arXiv 2022 [paper](https://arxiv.org/abs/2202.13330)
@@ -113,21 +113,20 @@ arXiv 2022 [paper](https://arxiv.org/abs/2202.13330)
 
 There we introduce papers that includes new evaluation metrics.
 
-- Vision-and-Dialog Navigation  
-CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
-
 - On Evaluation of Embodied Navigation Agents  
 arXiv 2018 [paper](https://arxiv.org/abs/1807.06757)
 
 - Touchdown: Natural Language Navigation and Spatial Reasoning in Visual Street Environments  
 CVPR 2019 [paper](https://doi.org/10.1109/CVPR.2019.01282)
 
+- Vision-and-Dialog Navigation  
+CoRL 2019 [paper](https://arxiv.org/abs/1907.04957)
+
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://doi.org/10.18653/v1/P19-1181)
 
 - General Evaluation for Instruction Conditioned Navigation using Dynamic Time Warping  
 arXiv 2019 [paper](https://arxiv.org/abs/1907.05446)
-
 
 ## Methods
 
@@ -136,7 +135,7 @@ arXiv 2019 [paper](https://arxiv.org/abs/1907.05446)
 #### Pretraining 
 
 - Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments  
-[ECCV 2020] [paper](https://arxiv.org/abs/2004.02857)
+ECCV 2020 [paper](https://arxiv.org/abs/2004.02857)
 
 - Robust Navigation with Language Pretraining and Stochastic Sampling  
 EMNLP 2019 [paper](https://arxiv.org/abs/1909.02244)
