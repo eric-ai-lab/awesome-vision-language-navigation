@@ -36,10 +36,7 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
     + [Using 2D MAPS environments](#using-2d-maps-environments)
     + [Using synthetic environments](#using-synthetic-environments)
     + [Visual Navigation](#visual-navigation)
-    + [If you find this repo useful for your research, please cite](#if-you-find-this-repo-useful-for-your-research--please-cite)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+  * [If you find this repo useful for your research, please cite](#if-you-find-this-repo-useful-for-your-research--please-cite)
 
 
 ## Datasets and Benchmarks
@@ -451,7 +448,7 @@ NeurIPS 2019 [paper](https://arxiv.org/abs/1804.00168)
 
 
 
-### If you find this repo useful for your research, please cite
+## If you find this repo useful for your research, please cite
 ```
 @InProceedings{jing2022vln,
       title={Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions}, 
