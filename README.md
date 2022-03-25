@@ -3,7 +3,7 @@
 <!-- Vision-and-Language Navigation (VLN) has becoming an important topic. This repo keeps tracking the recent advancements in VLN. -->
 <!-- Create an issue or email to jgu110@ucsc.edu if you have any suggestions on this repo! -->
 
-A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for the catogerization approach and the detailed discussions of tasks, methods, and future directions: [Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions]().
+A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for the catogerization approach and the detailed discussions of tasks, methods, and future directions: [Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions](https://arxiv.org/abs/2203.12667).
 
 >A long-term goal of AI research is to build intelligent agents that can communicate with humans in natural language, perceive the environment, and perform real-world tasks. Vision-and-Language Navigation (VLN) is a fundamental and interdisciplinary research topic towards this goal, and receives increasing attention from the natural language processing, computer vision, and machine learning communities. In this paper, we review contemporary studies in the emerging field of VLN, covering tasks, evaluation metrics, methods, etc. Through structured analysis of current progress and challenges, we also highlight the limitations of current VLN and opportunities for future work.
 
