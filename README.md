@@ -274,6 +274,9 @@ ECCV 2018 [paper](https://arxiv.org/abs/1803.07729)
 - Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation  
 CVPR 2019 [paper](https://arxiv.org/abs/1811.10092) 
 
+- Vision-language navigation policy learning and adaptation  
+TPAMI 2020 [paper](https://pubmed.ncbi.nlm.nih.gov/32054568/)
+
 - Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation  
 ACL 2019 [paper](https://aclanthology.org/P19-1181/) 
 
@@ -311,6 +314,12 @@ ECCV 2018 [paper](https://arxiv.org/abs/1803.07729)
 - Chasing Ghosts: Instruction Following as Bayesian State Tracking  
 NeurIPS 2019 [paper](https://arxiv.org/abs/1907.02022)
 
+- Generative Language-Grounded Policy in Vision-and-Language Navigation with Bayes' Rule  
+ICLR 2020 [papepr](https://arxiv.org/abs/2009.07783)
+
+- Learning to Stop: A Simple yet Effective Approach to Urban Vision-Language Navigation  
+EMNLP Findings 2020 [paper](https://arxiv.org/abs/2009.13112)
+
 - Waypoint Models for Instruction-guided Navigation in Continuous Environments  
 ICCV 2021 [paper](https://arxiv.org/abs/2110.02207) 
 
@@ -319,6 +328,9 @@ ICCV 2021 [paper](https://arxiv.org/abs/2105.08756)
 
 - Neighbor-view Enhanced Model for Vision and Language Navigation  
 arXiv 2021 [paper](https://arxiv.org/abs/2107.07201) 
+
+- One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones  
+arXiv 2022 [paper](https://arxiv.org/abs/2202.07028)
 
 #### Asking for Help 
 
@@ -358,6 +370,9 @@ CVPR 2020 [paper](https://arxiv.org/abs/1911.07308)
 
 - Vision-Language Navigation with Random Environmental Mixup  
 ICCV 2021 [paper](https://arxiv.org/abs/2106.07876) 
+
+- Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation  
+EACL 2021 [paper](https://arxiv.org/abs/2007.00229)
 
 
 #### Curriculum Learning
