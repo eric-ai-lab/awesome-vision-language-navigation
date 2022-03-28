@@ -356,8 +356,14 @@ arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
 
 #### Data Augmentation 
 
+<!-- ##### Trajectory-Instruction Augmentation --> 
+
+<!-- ##### Environment Augmentation -->
 - Speaker-Follower Models for Vision-and-Language Navigation  
 NeurIPS 2018 [paper](https://arxiv.org/abs/1806.02724) 
+
+- Multi-modal Discriminative Model for Vision-and-Language Navigation  
+SpLU&RoboNLP Workshop 2019 [paper](https://arxiv.org/abs/1905.13358)
 
 - Transferable Representation Learning in Vision-and-Language Navigation  
 ICCV 2019 [paper](https://arxiv.org/abs/1908.03409)
@@ -365,15 +371,23 @@ ICCV 2019 [paper](https://arxiv.org/abs/1908.03409)
 - Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout  
 NAACL 2019 [paper](https://aclanthology.org/N19-1268/) 
 
-- Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling  
-CVPR 2020 [paper](https://arxiv.org/abs/1911.07308) 
+Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout   
+NAACL 2019 [paper](https://aclanthology.org/N19-1268/)
 
-- Vision-Language Navigation with Random Environmental Mixup  
-ICCV 2021 [paper](https://arxiv.org/abs/2106.07876) 
+- Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling  
+ECCV 2020 [paper](https://arxiv.org/abs/1911.07308) 
+
+Counterfactual vision-and-language navigation: Unravelling the unseen  
+NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/hash/39016cfe079db1bfb359ca72fcba3fd8-Abstract.html)
 
 - Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation  
 EACL 2021 [paper](https://arxiv.org/abs/2007.00229)
 
+- Vision-Language Navigation with Random Environmental Mixup  
+ICCV 2021 [paper](https://arxiv.org/abs/2106.07876) 
+
+- On the Evaluation of Vision-and-Language Navigation Instructions  
+EACL 2021 [paper](https://arxiv.org/abs/2101.10504)
 
 #### Curriculum Learning
 
