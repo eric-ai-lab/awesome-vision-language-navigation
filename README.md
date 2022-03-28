@@ -371,13 +371,13 @@ ICCV 2019 [paper](https://arxiv.org/abs/1908.03409)
 - Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout  
 NAACL 2019 [paper](https://aclanthology.org/N19-1268/) 
 
-Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout   
+- Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout   
 NAACL 2019 [paper](https://aclanthology.org/N19-1268/)
 
 - Counterfactual Vision-and-Language Navigation via Adversarial Path Sampling  
 ECCV 2020 [paper](https://arxiv.org/abs/1911.07308) 
 
-Counterfactual vision-and-language navigation: Unravelling the unseen  
+- Counterfactual vision-and-language navigation: Unravelling the unseen  
 NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/hash/39016cfe079db1bfb359ca72fcba3fd8-Abstract.html)
 
 - Multimodal Text Style Transfer for Outdoor Vision-and-Language Navigation  
