@@ -36,7 +36,7 @@ A curated list of VLN papers. Please check out our ACL 2022 VLN survey paper for
     + [Using 2D MAPS environments](#using-2d-maps-environments)
     + [Using synthetic environments](#using-synthetic-environments)
     + [Visual Navigation](#visual-navigation)
-  * [If you find this repo useful for your research, please cite](#if-you-find-this-repo-useful-for-your-research--please-cite)
+  * [If you find this repo useful for your research, please cite](#if-you-find-this-repo-useful-for-your-research-please-cite)
 
 
 ## Datasets and Benchmarks
@@ -194,7 +194,7 @@ CVPR 2021 [paper](https://arxiv.org/abs/2011.13922)
 - Airbert: In-domain Pretraining for Vision-and-Language Navigation  
 ICCV 2021 [paper](https://arxiv.org/abs/2108.09105) 
 
-NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue  
+- NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue  
 EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.518)
 
 
