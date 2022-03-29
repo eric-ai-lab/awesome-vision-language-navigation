@@ -194,6 +194,11 @@ CVPR 2021 [paper](https://arxiv.org/abs/2011.13922)
 - Airbert: In-domain Pretraining for Vision-and-Language Navigation  
 ICCV 2021 [paper](https://arxiv.org/abs/2108.09105) 
 
+NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue  
+EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.518)
+
+Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments  
+EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.328.pdf)
 
 #### Semantic Understanding 
 
