@@ -358,6 +358,9 @@ ICCV 2021 [paper](https://ieeexplore.ieee.org/document/9711423)
 - TEACh: Task-driven Embodied Agents that Chat   
 arXiv 2021 [paper](https://arxiv.org/abs/2110.00534)
 
+- A Framework for Learning to Request Rich and Contextually Useful Information from Humans  
+arXiv 2021 [paper](https://doi.org/10.48550/arxiv.2110.08258)
+
 ### Data-centric Learning 
 
 #### Data Augmentation 
