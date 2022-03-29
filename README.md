@@ -485,7 +485,7 @@ MULEA 2019 [paper](https://dl.acm.org/doi/10.1145/3347450.3357659)
 NeurIPS 2019 [paper](https://arxiv.org/abs/1804.00168)
 
 - Deep Learning for Embodied Vision Navigation: A Survey  
-arXiv 2021 [paper]{https://arxiv.org/abs/2108.04097}
+arXiv 2021 [paper](https://arxiv.org/abs/2108.04097)
 
 
 ## If you find this repo useful for your research, please cite
