@@ -332,7 +332,7 @@ ICCV 2021 [paper](https://arxiv.org/abs/2105.08756)
 - Neighbor-view Enhanced Model for Vision and Language Navigation  
 arXiv 2021 [paper](https://arxiv.org/abs/2107.07201) 
 
-Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments  
+- Language-Aligned Waypoint (LAW) Supervision for Vision-and-Language Navigation in Continuous Environments  
 EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.328.pdf)
 
 - One Step at a Time: Long-Horizon Vision-and-Language Navigation with Milestones  
