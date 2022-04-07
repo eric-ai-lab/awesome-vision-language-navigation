@@ -197,9 +197,6 @@ ICCV 2021 [paper](https://arxiv.org/abs/2108.09105)
 - NDH-Full: Learning and Evaluating Navigational Agents on Full-Length Dialogue  
 EMNLP 2021 [paper](https://aclanthology.org/2021.emnlp-main.518)
 
-- EnvEdit: Environment Editing for Vision-and-Language Navigation
-CVPR 2022 [paper](https://arxiv.org/abs/2203.15685)
-
 
 #### Semantic Understanding 
 
@@ -400,6 +397,9 @@ ICCV 2021 [paper](https://arxiv.org/abs/2106.07876)
 
 - On the Evaluation of Vision-and-Language Navigation Instructions  
 EACL 2021 [paper](https://arxiv.org/abs/2101.10504)
+
+- EnvEdit: Environment Editing for Vision-and-Language Navigation
+CVPR 2022 [paper](https://arxiv.org/abs/2203.15685)
 
 #### Curriculum Learning
 
