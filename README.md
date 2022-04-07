@@ -431,14 +431,14 @@ arXiv 2021 [paper](https://arxiv.org/abs/2106.00596)
 
 ### Prior Exploration  
 
-- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation  
-ACL 2019 [paper](https://aclanthology.org/P19-1655/) 
+- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation  
+CVPR 2019 [paper](https://arxiv.org/abs/1811.10092) 
 
 - Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout  
 NAACL 2019 [paper](https://aclanthology.org/N19-1268/) 
 
-- Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation  
-CVPR 2019 [paper](https://arxiv.org/abs/1811.10092) 
+- Are You Looking? Grounding to Multiple Modalities in Vision-and-Language Navigation  
+ACL 2019 [paper](https://aclanthology.org/P19-1655/) 
 
 - Counterfactual Vision-and-Language Navigation: Unravelling the Unseen  
 NeurIPS 2020 [paper](https://proceedings.neurips.cc/paper/2020/hash/39016cfe079db1bfb359ca72fcba3fd8-Abstract.html) 
