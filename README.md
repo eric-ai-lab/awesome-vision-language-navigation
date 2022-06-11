@@ -99,7 +99,7 @@ CVPR 2020 [paper](https://arxiv.org/abs/1912.01734)
 NeurIPS 2021  [paper](https://proceedings.neurips.cc/paper/2021/hash/0602940f23884f782058efac46f64b0f-Abstract.html)
 
 - Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation  
-arXiv 2021 [paper](https://arxiv.org/abs/2104.10674)
+ICRA 2021 [[Project Page](https://zubair-irshad.github.io/projects/robo-vln.html)] [[arXiv](https://arxiv.org/abs/2104.10674)] [[GitHub](https://github.com/GT-RIPL/robo-vln)] 
 
 - [Talk2Nav]: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory  
 IJCV 2021 [paper](https://arxiv.org/abs/1910.02029)
@@ -224,6 +224,9 @@ CVPR 2021 [paper](https://ieeexplore.ieee.org/abstract/document/9577507)
 - Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning  
 IEEE CAS 2021 [paper](https://arxiv.org/abs/2011.10972)
 
+- SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments <br>
+ICPR, 2022 [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
+
 #### Graph Representation 
 
 - Chasing Ghosts: Instruction Following as Bayesian State Tracking  
@@ -322,6 +325,9 @@ ICLR 2020 [papepr](https://arxiv.org/abs/2009.07783)
 
 - Learning to Stop: A Simple yet Effective Approach to Urban Vision-Language Navigation  
 EMNLP Findings 2020 [paper](https://arxiv.org/abs/2009.13112)
+
+- Hierarchical Cross-Modal Agent for Robotics Vision-and-Language Navigation  
+ICRA 2021 [[Project Page](https://zubair-irshad.github.io/projects/robo-vln.html)] [[arXiv](https://arxiv.org/abs/2104.10674)] [[GitHub](https://github.com/GT-RIPL/robo-vln)] 
 
 - Waypoint Models for Instruction-guided Navigation in Continuous Environments  
 ICCV 2021 [paper](https://arxiv.org/abs/2110.02207) 
