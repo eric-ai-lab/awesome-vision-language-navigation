@@ -224,6 +224,9 @@ CVPR 2021 [paper](https://ieeexplore.ieee.org/abstract/document/9577507)
 - Language-guided Navigation via Cross-Modal Grounding and Alternate Adversarial Learning  
 IEEE CAS 2021 [paper](https://arxiv.org/abs/2011.10972)
 
+- SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments <br>
+ICPR, 2022 [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
+
 #### Graph Representation 
 
 - Chasing Ghosts: Instruction Following as Bayesian State Tracking  
