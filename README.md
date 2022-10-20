@@ -104,8 +104,16 @@ ICRA 2021 [[Project Page](https://zubair-irshad.github.io/projects/robo-vln.html
 - [Talk2Nav]: Long-Range Vision-and-Language Navigation with Dual Attention and Spatial Memory  
 IJCV 2021 [paper](https://arxiv.org/abs/1910.02029)
 
+- [Habitat-Matterport]: 1000 Large-scale 3D Environments for Embodied AI  
+Neurips 2021 [paper](https://arxiv.org/abs/2109.08238)
+
 - [SOON]: Scenario Oriented Object Navigation with Graph-based Exploration  
 CVPR 2021 [paper](https://arxiv.org/abs/2103.17138)
+
+- [ZInD]: Zillow Indoor Dataset: Annotated Floor Plans With 360o Panoramas and 3D Room Layouts  
+CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf)
+
+
 
 ### Guidance
 
