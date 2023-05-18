@@ -147,7 +147,10 @@ CoRL 2020 [paper](https://arxiv.org/abs/2010.12639)
 AAAI 2022 [paper](https://arxiv.org/abs/2110.00534)
 
 - [DialFRED]: Dialogue-enabled agents for embodied instruction following  
-arXiv 2022 [paper](https://arxiv.org/abs/2202.13330)
+RA-L 2022 [paper](https://arxiv.org/abs/2202.13330)
+
+- [AVDN]: Aerial Vision-and-Dialog Navigation
+ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 
 ## Evaluation 
 
