@@ -149,6 +149,9 @@ AAAI 2022 [paper](https://arxiv.org/abs/2110.00534)
 - [DialFRED]: Dialogue-enabled agents for embodied instruction following  
 RA-L 2022 [paper](https://arxiv.org/abs/2202.13330)
 
+- [Don't Copy the Teacher]: 
+EMNLP 2022 [paper](https://arxiv.org/abs/2210.04443)
+
 - [AVDN]: Aerial Vision-and-Dialog Navigation  
 ACL 2023 [paper](https://sites.google.com/view/aerial-vision-and-dialog/home)
 
@@ -237,6 +240,14 @@ IEEE CAS 2021 [paper](https://arxiv.org/abs/2011.10972)
 
 - SASRA: Semantically-aware Spatio-temporal Reasoning Agent for Vision-and-Language Navigation in Continuous Environments <br>
 ICPR, 2022 [[Paper]](https://arxiv.org/abs/2108.11945) [[Website]](https://zubair-irshad.github.io/projects/SASRA.html) [[Video]](https://www.youtube.com/watch?v=DsziGtgaJC0)
+
+- FILM: Following Instructions in Language with Modular Methods <br>
+ICLR 2022 [[Paper]](https://arxiv.org/abs/2110.07342) [[Website]](https://soyeonm.github.io/FILM_webpage/) [[Video]](https://www.youtube.com/watch?v=Ufh1Os51FY4) [[Code]](https://github.com/soyeonm/FILM)
+
+- Don't Copy the Teacher: Data and Model Challenges in Embodied Dialogue <br>
+EMNLP 2022 [[Paper]](https://arxiv.org/abs/2210.04443) [[Video]](https://www.youtube.com/watch?v=qGPC65BDJw4) 
+
+
 
 #### Graph Representation 
 
@@ -506,6 +517,10 @@ NeurIPS 2019 [paper](https://arxiv.org/abs/1804.00168)
 
 - Deep Learning for Embodied Vision Navigation: A Survey  
 arXiv 2021 [paper](https://arxiv.org/abs/2108.04097)
+
+- Self-Supervised Object Goal Navigation with In-Situ Finetuning <br>
+IROS 2023 [paper](https://arxiv.org/abs/2212.05923) [video](https://www.youtube.com/watch?v=LXsZst5ZUpU)
+
 
 
 ## If you find this repo useful for your research, please cite
