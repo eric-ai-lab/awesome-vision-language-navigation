@@ -429,6 +429,9 @@ EACL 2021 [paper](https://arxiv.org/abs/2101.10504)
 - EnvEdit: Environment Editing for Vision-and-Language Navigation
 CVPR 2022 [paper](https://arxiv.org/abs/2203.15685)
 
+- AIGeN: An Adversarial Approach for Instruction Generation in VLN
+CVPRW 2024 [paper](https://arxiv.org/abs/2404.10054)
+
 #### Curriculum Learning
 
 - BabyWalk: Going Farther in Vision-and-Language Navigation by Taking Baby Steps  
